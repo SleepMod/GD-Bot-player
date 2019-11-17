@@ -3,3 +3,5 @@ This bot needs to be coded manualy, its easy, but it take a lot... The code isn'
 
 Well the code is easy to understand so, you may not have problems to understand this. Only is pure text devolping the menu the "Main" and
 the "Level.h" is the easiest part, "just c+p...". Well i hope i help you, if you want the soucre code correct, just discord me.
+
+17/11/2019 Added a custom key gameplay for GD.

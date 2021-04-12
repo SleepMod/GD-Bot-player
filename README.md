@@ -5,3 +5,5 @@ Well the code is easy to understand so, you may not have problems to understand 
 the "Level.h" is the easiest part, "just c+p...". Well i hope i help you, if you want the soucre code correct, just discord me.
 
 17/11/2019 Added a custom key gameplay for GD.
+
+12/04/2021 This is trash code, and pretty easy to guess what is missing...
